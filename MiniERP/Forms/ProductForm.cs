@@ -13,11 +13,11 @@ using System.Windows.Forms;
 
 namespace MiniERP
 {
-    public partial class MainForm : Form
+    public partial class ProductForm : Form
     {
         private ProductService productService;
         private int selectedProductId = -1;
-        public MainForm()
+        public ProductForm()
         {
             InitializeComponent();
             productService = new ProductService();
