@@ -63,5 +63,6 @@ namespace MiniERP.Services
             }
             return new ServiceResult { Success = false, Message = "Satış silinemedi!" };
         }
+
     }
 }
