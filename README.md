@@ -40,17 +40,9 @@ Katmanlı mimari yapısı sayesinde sürdürülebilir ve geliştirilebilir bir y
 
 ### 📸 Ekran Görüntüleri
 
-#### 🏠 Ana Menü
-![Main Menu](MiniERP/assets/screenshots/mainMenu.png)
-
-#### 👤 Müşteri Yönetimi
-![Customer](MiniERP/assets/screenshots/musteriYonetimi.png)
-
-#### 📦 Ürün Yönetimi
-![Product](MiniERP/assets/screenshots/UrunYonetimi.png)
-
-#### 💰 Satış Yönetimi
-![Sales](MiniERP/assets/screenshots/satisYonetimi.png)
+| Ana Menü | Müşteri | Ürün | Satış |
+|----------|--------|------|------|
+| ![](assets/screenshots/mainMenu.png) | ![](assets/screenshots/musteriYonetimi.png) | ![](assets/screenshots/UrunYonetimi.png) | ![](assets/screenshots/satisYonetimi.png) |
 
 ---
 
