@@ -41,16 +41,16 @@ Katmanlı mimari yapısı sayesinde sürdürülebilir ve geliştirilebilir bir y
 ### 📸 Ekran Görüntüleri
 
 #### 🏠 Ana Menü
-![Main Menu](assets/screenshots/mainMenu.png)
+![Main Menu](MiniERP/assets/screenshots/mainMenu.png)
 
 #### 👤 Müşteri Yönetimi
-![Customer](assets/screenshots/musteriYonetimi.png)
+![Customer](MiniERP/assets/screenshots/musteriYonetimi.png)
 
 #### 📦 Ürün Yönetimi
-![Product](assets/screenshots/UrunYonetimi.png)
+![Product](MiniERP/assets/screenshots/UrunYonetimi.png)
 
 #### 💰 Satış Yönetimi
-![Sales](assets/screenshots/satisYonetimi.png)
+![Sales](MiniERP/assets/screenshots/satisYonetimi.png)
 
 ---
 
@@ -112,16 +112,17 @@ The project follows a layered architecture for maintainability and scalability.
 ### 📸 Screenshots
 
 #### 🏠 Main Menu
-![Main Menu](assets/screenshots/mainMenu.png)
+![Main Menu](MiniERP/assets/screenshots/mainMenu.png)
 
 #### 👤 Customer Management
-![Customer](assets/screenshots/musteriYonetimi.png)
+![Customer](MiniERP/assets/screenshots/musteriYonetimi.png)
 
 #### 📦 Product Management
-![Product](assets/screenshots/UrunYonetimi.png)
+![Product](MiniERP/assets/screenshots/UrunYonetimi.png)
 
 #### 💰 Sales Management
-![Sales](assets/screenshots/satisYonetimi.png)
+![Sales](MiniERP/assets/screenshots/satisYonetimi.png)
+
 
 ---
 
